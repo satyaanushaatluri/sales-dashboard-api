@@ -1,4 +1,7 @@
 fastapi
 uvicorn
+sqlalchemy
 pydantic
-pandas
+pytest
+httpx
+
